@@ -1,4 +1,4 @@
-# Welcome to syavingc's blog!
+# Welcome To syavingc's blog!
 
 > A / B
 
@@ -6,4 +6,4 @@
 
 ---
 
-[技术博客](//http://www.cnblogs.com/syaving)
+[技术博客](http://www.cnblogs.com/syaving)
